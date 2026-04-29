@@ -1,2 +1,9 @@
 .DS_Store
-.tranco-cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+data/cache/
+data/outputs/**/*.csv
+data/outputs/*.csv
